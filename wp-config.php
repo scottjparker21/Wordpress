@@ -26,9 +26,10 @@ define('DB_NAME', 'portfolio');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'baconFat1');
 
 /** MySQL hostname */
+
 define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
@@ -78,7 +79,7 @@ $table_prefix  = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
-
+define('WP_MEMORY_LIMIT', '64M');
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
