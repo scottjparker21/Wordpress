@@ -4,7 +4,7 @@
     Template Name: Home
  */
 
-get_header(); ?>
+require_once('header.php') ?>
 
 <h1>Hello World</h1>
 

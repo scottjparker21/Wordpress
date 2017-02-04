@@ -1,4 +1,6 @@
 			<!-- footer -->
+			<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      		<script type="text/javascript" src="wp-content/themes/portfolio/js/materialize.min.js"></script>
 			<footer class="footer" role="contentinfo">
 
 				<!-- copyright -->
