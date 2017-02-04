@@ -18,9 +18,9 @@ get_header(); ?>
             
            <!-- Hero Text -->
            <div class="hero-text">
-               <h1>The <b>Great Lakes Roofing</b> Blog</h1>
+               <h1>Scotts Test Page</h1>
                <hr>
-               <p>See whats happening in the Great Lakes Roofing community.</p>                        
+               <p>Lets get dis goin baby</p>                        
            </div><!-- end "hero-text" -->
      
            <div class="overlay"></div>
